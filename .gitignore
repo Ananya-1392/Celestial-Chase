@@ -3,6 +3,11 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
+
+# Ignore specific CelestialChase Library and PackageCache directories
+CelestialChase/Library/
+CelestialChase/Library/PackageCache/
+
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
