@@ -4,6 +4,11 @@
 #
 /[Ll]ibrary/
 
+backend/node_modules/
+
+backend/.env
+
+
 # Ignore specific CelestialChase Library and PackageCache directories
 CelestialChase/Library/
 CelestialChase/Library/PackageCache/
